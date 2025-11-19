@@ -9,6 +9,8 @@ output:
     toc_depth: 1
 ---
 
+<hr>
+
 # Join Our Sleep and Circadian Sciences Research!
 
 <hr>
@@ -21,62 +23,44 @@ discoveries.
 
 **Contact us today to explore these exciting opportunities!**
 
-<br><br>
+<hr>
+
+<br><br><br>
+
+<hr>
 
 # Research areas
 
 <hr>
 
--   **Creating Brighter Homes for All Species**
+-   **Better Light Exposure Metrics for All Species**
 
-The project aims to investigate and standardize methods for measuring
-light exposure tailored to different species. By doing so, it seeks to
-regulate and optimize housing conditions for pets, farm animals, and lab
-animals, ensuring their well-being and health.
-
--   **Ecological Vision: Understanding Animal Vision and the Impact of
-    Light Pollution**
-
-The project aims to investigate the photoreceptor sensitivities and lens
-light transmissions of various species. By understanding these visual
-mechanisms, it seeks to calculate and assess the ecological impact of
-light pollution, ultimately contributing to more effective environmental
-conservation strategies.
+This project focuses on developing and standardizing light-exposure measurement methods tailored to different species. Our goal is to improve and regulate lighting conditions for pets, farm animals, and laboratory animals to support their health and well-being. We also aim to quantify and evaluate ecological light-pollution metrics to better understand environmental impacts, ultimately contributing to more effective conservation strategies.
 
 -   **Measuring Light Exposure and Sensitivities in Everyday Life**
 
-The project involves developing wearable melanopic lux monitors to
-measure personal light exposure in real-world settings. Additionally, we
-are creating mobile apps to collect data on sleep, behavior, mood, and
-cognitive functions in everyday life. This comprehensive approach allows
-us to investigate the effects of light on various aspects of daily
-living.
+This project develops wearable melanopic lux monitors to capture personal light exposure in real-world environments. In parallel, we are creating mobile applications to collect data on sleep, behavior, mood, and cognition. This integrated approach enables us to examine how daily light exposure influences multiple aspects of life. We additionally investigate inter-individual differences in light sensitivity and work toward establishing more accurate ways to measure these sensitivities, their biological foundations, and their behavioral consequences.
 
--   **Enhancing Health and Aging through Better Sleep**
+-   **Acute Non-Visual Effects of Light**
 
-The project aims to investigate the associations between aging
-trajectories of sleep patterns, circadian rhythms, health, cognition,
-and mood. By understanding these relationships, the project seeks to
-develop targeted interventions that promote healthier aging.
+This laboratory-based project investigates the immediate non-visual effects of precisely controlled light stimuli on cognition, mood, and neuroendocrine function. Our work combines eye-tracking, pupillometry, psychophysics, computerized cognitive tasks, and validated surveys to build a comprehensive picture of how light acutely influences the human brain and behavior.
 
--   **Illuminating Minds: Optimizing Light Exposure in Educational
-    Environments**
+-   **Optimizing Light Exposure in Educational Environments**
 
-The project aims to enhance cognitive performance and improve sleep
-health by optimizing light exposure in educational settings. By
-tailoring lighting conditions, it seeks to create an environment
-conducive to both learning and overall well-being.
+This project aims to enhance cognitive performance and promote healthier sleep patterns by optimizing lighting conditions in educational settings. By tailoring the timing, spectrum, and intensity of light, we seek to create learning environments that support both academic success and overall well-being.
 
--   **Harmonizing Rhythms: Cultural Adaptation in Sleep and Circadian
-    Research**
+-   **Cultural Adaptation in Sleep and Circadian Research**
 
-The project focuses on translating, validating, and adapting surveys and
-methodologies to account for cultural variations, thereby enhancing the
-meta-science and reproducibility of sleep and circadian research. This
-ensures that findings are robust and applicable across diverse cultural
-contexts.
+This project focuses on translating, validating, and culturally adapting sleep and circadian assessment tools. By accounting for cultural differences in behavior, environment, and interpretation, we aim to strengthen meta-science practices and improve the reproducibility and global applicability of circadian and sleep research.
 
-<br><br>
+-   **Enhancing Health and Aging through Better Rhythm**
+The project aims to investigate the associations between aging trajectories of sleep patterns, circadian rhythms, lighting and feeding behaviour, health, cognition, and mood. By understanding these relationships, the project seeks to develop targeted interventions that promote healthier aging.
+
+<hr>
+
+<br><br><br>
+
+<hr>
 
 # Collaborations
 
@@ -85,16 +69,15 @@ contexts.
 -   MeLiDos - A prospective, multi-centric, cross-sectional cohort study
     to assess personal light exposure; funded by the European
     Partnership on Metrology, co-financed by the European Union’s
-    Horizon.
+    Horizon. <https://www.melidos.eu/>
 
--   Timing of eating behavior in older adults; collaboration with Mass
-    General Research Institute, Harvard Medical School.
+-   DLA - Toward a globally representative dataset of personal daylight exposure. <https://daylight.academy/projects/toward-a-globally-representative-dataset-of-personal-daylight-exposure-capacity-building-and-micro-grant-initiative/>
 
--   Measuring effects of light on mood in everyday life; collaboration
-    with The University of Manchester, Division of Neuroscience, funded
-    by BBSRC and Signify.
+<hr>
 
-<br><br>
+<br><br><br>
+
+<hr>
 
 # Open positions
 
@@ -103,23 +86,32 @@ contexts.
 Anyone interested in joining the group or collaborating is welcome to
 contact us.
 
-<br><br>
+<hr>
+
+<br><br><br>
+
+<hr>
 
 # Grants
 
 <hr>
 
--   **IzTech-AUDP (2024-2026):** Development of a multi-spectrum display
+-   **Daylight Academy - A VELUX STIFTUNG initiative (2025-2027):** Toward a globally representative dataset of personal daylight exposure: capacity building and micro-grant initiative
+    
+-   **IZTECH-AUDP (2024-2026):** Development of a multi-spectrum display
     for home-based light testing and therapies
+
+-   **TUBITAK-2209A (2024-2025):** Turkish translation of Light Exposure Behaviour Assesment (LEBA) and study of its validity and reliability
+    
+-   **TUBITAK-2209A (2024-2025):** The effect of circadian lighting on plant germination
 
 -   **TUBITAK-1002 (2024-2025):** Measurement of Light Exposure in Daily
     Life Using Wearable Light Loggers
 
--   **The University of Manchester Research Collaboration Fund
-    (2022-2023):** Measuring Effects of Light Exposure on Activity,
+-   **The University of Manchester Research Collaboration Fund (2022-2023):** Measuring Effects of Light Exposure on Activity,
     Sleep and Human Performance
 
 -   **UKRI BBSRC - ICURe Lean Launch Programme (2022):** Animal-centric
     approach to measuring light intensity
 
-<br><br>
+<hr>

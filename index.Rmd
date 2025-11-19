@@ -13,8 +13,6 @@ output:
 
 ![](img/photo.png){width="350"}
 
-<br>
-
 <hr>
 
 I am an Assistant Professor in the Department of Neuroscience at the
@@ -28,35 +26,17 @@ well-being.
 
 <hr>
 
-<br>
-
 **Education and Experience**
 
--   Izmir Institute of Technology \| Turkey
+-   Izmir Institute of Technology \| Turkey \| Assistant Professor \| (2023-present)
 
-Head of Department of Neuroscience \| (2024-present)
+-   The University of Manchester \| UK \| Postdoctoral researcher (2021-2023)
 
--   Izmir Institute of Technology \| Turkey
+-   The University of Manchester \| UK \| PhD in Neuroscience (2021)
 
-Assistant Professor \| (2023-present)
+-   King's College London \| UK \| MSc in Neuroscience in Developmental Neurobiology (2017)
 
--   The University of Manchester \| UK
-
-Postdoctoral researcher (2021-2023)
-
--   The University of Manchester \| UK
-
-PhD in Neuroscience (2021)
-
--   King's College London \| UK
-
-MSc in Neuroscience in Developmental Neurobiology (2017)
-
--   Istanbul Technical University \| Turkey
-
-BSc in Molecular Biology and Genetics (2011)
-
-<br>
+-   Istanbul Technical University \| Turkey \| BSc in Molecular Biology and Genetics (2011)
 
 <hr>
 
@@ -71,22 +51,20 @@ BSc in Molecular Biology and Genetics (2011)
 <a href="https://www.researchgate.net/profile/Altug-Didikoglu" target="_blank" style="color: black;">
 <i class="fab fa-researchgate fa-3x"></i> </a>
 
-<a href="https://x.com/altugdidikoglu" target="_blank" style="color: black;">
-<img src="img/logo-x.png" alt="X Logo" style="width: 42; height: 42px;"/>
-
 <a href="https://github.com/altugdidikoglu" target="_blank" style="color: black;">
 <i class="fab fa-github fa-3x"></i> </a>
-:::
 
-*Contact*
+<a href="https://orcid.org/0000-0002-5582-6956" target="_blank" style="color: black;">
+<i class="fab fa-orcid fa-3x"></i> </a>
+:::
 
 Dr. Altug Didikoglu
 
-Chronobiology Laboratory
+Translational Chronobiology Laboratory
 
 Department of Neuroscience
 
-IZTECH
+Izmir Institute of Technology
 
 Izmir, Turkey
 

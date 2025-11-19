@@ -9,65 +9,38 @@ output:
     toc_depth: 2
 ---
 
-![](img/logo.png)
-<br> <br> <br>
-
-# What we do
+![](img/logo.png){width="294"} 
 
 <hr>
-
-Our research aims to understand the intricate relationships between light exposure, sleep, and cognition in both humans and animals. Our group is currently investigating the associations between sleep characteristics and aging, cognition, neurodegeneration, and mental health using statistical modelling in large cohorts. We are exploring biological factors (genetic, epigenetic, ageing), environmental factors (season, light), and social factors (occupation) that regulate biological rhythms in humans. The main research focus of our group is currently the influence of light exposure on sleep and cognition in humans. We are one of the leading research groups in the field, investigating this question in real-world settings. To conduct this research, we have developed a wearable light exposure monitor that measures melanopic lux, considered the gold standard for personal light exposure measurement. Additionally, for longitudinal collection of cognitive data in everyday life, we have created a mobile phone app that includes attention and memory tasks. Furthermore, we are exploring the reasons for individual differences in light sensitivities using pupillometry and psychophysics visual tasks. Most recently, our group has expanded its scope to include animal lighting for laboratory, farm animals, and pets. We aim to establish a new standard for measuring light for animals, taking into consideration their ocular anatomy and photoreceptor sensitivities.
-
-
-<br> <br> <br>
 
 # Team
 
 <hr>
 
-<br>
-
 ## Postgraduate Students
 
 <hr>
 
-- **Kubilay Can**<br>
+-   **Cansu Ozkucukler**<br>
 
-- **Meric Celik**<br>
+-   **Meric Celik**<br>
 
-- **Sema Nur Aydin**<br>
+-   **Berkay Ekinci**<br>
 
-- **Begum Ece Elcekin**<br>
+-   **Sena Gulsum Akgun**<br>
 
 <hr>
 
-<br>
 
 ## Undergraduate Research Students
 
 <hr>
 
-- **Sena Gulsum**<br>
+-   **Zeynep Kayar**<br>
 
-- **Zeynep Kayar**<br>
-
-- **Burcu Gemici**<br>
-
-- **Emin Bayindirli**<br>
-
-- **Gokhan Karahanogullari**<br>
-
-- **Cansu Ozkucukler**<br>
-
-- **Eray Yildiz**<br>
-
-- **Cengiz Akkus**<br>
-
-- **Matin Huseynzade**<br>
+-   **Burcu Gemici**<br>
 
 <hr>
-
-<br>
 
 ## Alumni
 
@@ -93,6 +66,9 @@ Our research aims to understand the intricate relationships between light exposu
     Student<br> now: Izmir Institute of Technology<br> [personal
     page](https://www.linkedin.com/in/furkan-mert-kervan-b0020b199/)
 
+-   **Eray Yildiz**<br> previously: Undergraduate Research
+    Student<br> now: The University of Bonn <br> [personal
+    page](https://www.linkedin.com/in/eray-y%C4%B1ld%C4%B1z-b0857a204/?originalSubdomain=tr)
+
 <hr>
 
-<br>

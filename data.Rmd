@@ -1,0 +1,130 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 2
+---
+
+```{=html}
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+```
+
+<hr>
+
+# Research data
+
+<hr>
+
+-   **Personal light exposure dataset for Izmir, Türkiye**
+
+<https://zenodo.org/records/16638739>
+
+This repository contains the comprehensive dataset for the MeLiDos field study site of Izmir, Türkiye. Data were collected by Izmir Institute of Technology (IZTECH) and are further processed and analysed by the Translational Sensory & Circadian Neuroscience Unit (TSCN). A detailed description of the experiment is available in Guidolin et al., 2024.
+
+<hr>
+
+-   **UK Wearable light dataset**
+
+<https://github.com/altugdidikoglu/UK_Wearable_Light_Dataset>
+
+The dataset provided here is a combined and harmonised collection of personal light exposure, sleep, and subjective sleepiness data from Manchester, UK, spanning multiple phases of the study.
+
+<hr>
+
+-   **Relationships Between Light Exposure and Aspects of Cognitive Function in Everyday Life**
+
+<https://github.com/altugdidikoglu/light-cognition-inreallife>
+
+This repository contains the analysis scripts for a study investigating the relationships between light exposure and various aspects of cognitive function in everyday life among UK adults.
+
+<https://doi.org/10.48420/28911977.v1>
+
+This repository contains the data and manuscript figure and table files for this study.
+
+
+
+<hr>
+
+-   **UK Wearable light dataset**
+
+<https://github.com/altugdidikoglu/UK_Wearable_Light_Dataset>
+
+The dataset provided here is a combined and harmonised collection of personal light exposure, sleep, and subjective sleepiness data from Manchester, UK, spanning multiple phases of the study.
+
+<hr>
+
+-   **Associations between light exposure and sleep timing and sleepiness while awake in a sample of UK adults in everyday life**
+
+<https://doi.org/10.48420/23786238.v1>
+
+This repository contains the raw data of this research paper.
+
+<hr>
+
+-   **Cognitive task performance and illuminance collected by a smartphone app**
+
+<https://doi.org/10.48420/20212265.v1>
+
+Data was collected by a smartphone app (Brighter Time) to capture measures of cognitive performance and light exposure during everyday life.
+
+<hr>
+
+-   **The Effect of Season of Birth on Brain Epigenome-Wide DNA Methylation of Older Adults**
+
+<https://doi.org/10.48420/14680281.v1>
+
+Epigenome-wide DNA methylation summary statistics (Inferior Temporal Gyrus - Short photoperiod season of birth vs. Long photoperiod season of birth).
+
+<https://doi.org/10.48420/14680170.v1>
+
+Epigenome-wide DNA methylation summary statistics (Hypothalamus - Short photoperiod season of birth vs. Long photoperiod season of birth).
+
+<https://doi.org/10.48420/14679996.v1>
+
+Epigenome-wide DNA methylation summary statistics (Hypothalamus vs. Inferior Temporal Gyrus).
+
+<hr>
+
+<br><br><br>
+
+<hr>
+
+# Software
+
+<hr>
+
+-   **Species and photoreceptor-specific light exposure measurement in mammals**
+
+<https://github.com/altugdidikoglu/alphaopics>
+
+R package to calculate mammal species and photopigment specific light exposures
+
+<hr>
+
+-   **Species-specific light exposure calculator**
+
+<https://alphaopics.shinyapps.io/animal_light_toolbox/>
+
+This toolbox is designed to compute species-specific and photoreceptor-specific light exposure metrics using your spectral irradiance measurements. 
+
+<hr>
+
+<br><br><br>
+
+<hr>
+
+# Hardware
+
+<hr>
+
+-   **Spectrawear wearable light sensor**
+
+<https://github.com/Non-Invasive-Bioelectronics-Lab/Wearable_Light_Sensor_Public>
+
+This folder contains the development files of the wearable light monitoring device. Hardware (FR4): PCB and schematic design of the device, PCB and schematic design of the programming/debugging adaptor. Firmware: Instructions on how to set up the environment and configure the Arduino IDE to support BL652 Bluetooth module/MCU. Device enclosure: SolidWorks design files + .stl files for direct 3D printing. Customised companion android app, Bluefruit LE connect (source code + .apk file).
+
+<hr>
