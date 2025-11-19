@@ -103,7 +103,7 @@ contact us.
 
 -   **TUBITAK-2209A (2024-2025):** Turkish translation of Light Exposure Behaviour Assesment (LEBA) and study of its validity and reliability
     
--   **TUBITAK-2209A (2024-2025):** The effect of circadian lighting on plant germination
+-   **TUBITAK-2209A (2024-2025):** Effect of Circadian Lighting Conditions on Photodormancy and Germination in Beans
 
 -   **TUBITAK-1002 (2024-2025):** Measurement of Light Exposure in Daily
     Life Using Wearable Light Loggers
