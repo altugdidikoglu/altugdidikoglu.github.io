@@ -1,0 +1,718 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>public_outreach.knit</title>
+
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Altug Didikoglu</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="data.html">Data</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li>
+  <a href="lab.html">Lab</a>
+</li>
+<li>
+  <a href="public_outreach.html">Public outreach</a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<hr>
+<div id="presentations" class="section level1">
+<h1>Presentations</h1>
+<hr>
+<div id="october---current-topics-in-sleep-circadian-health"
+class="section level3">
+<h3>2025 October - Current Topics in Sleep &amp; Circadian Health</h3>
+<p><strong>Monitoring real-world light exposure and its impact on sleep
+health</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZO7NTiKYJcA" frameborder="0" allowfullscreen>
+</iframe>
+<hr>
+</div>
+<div
+id="september---research-roundtabel-symposium-diversity-in-the-circadian-neuroendocrine-and-neurobehavioral-effects-of-light-in-humans"
+class="section level3">
+<h3>2025 September - Research Roundtabel &amp; Symposium: Diversity in
+the circadian, neuroendocrine and neurobehavioral effects of light in
+humans</h3>
+<p><strong>Considering socioeconomics, language, &amp; social norms in
+real-world light exposure</strong></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3INjZD2Fz_Q" frameborder="0" allowfullscreen>
+</iframe>
+<hr>
+<p><br><br><br></p>
+<hr>
+</div>
+<div id="talks" class="section level2">
+<h2>Talks</h2>
+<hr>
+<ul>
+<li><p>10<sup>th</sup> Ecology and Evolutionary Biology Symposium (July
+2024, Canakkale TÜRKİYE)</p></li>
+<li><p>9<sup>th</sup> International Bioengineering Student Congress, Ege
+University (May 2024, Izmir TÜRKİYE)</p></li>
+<li><p>US National Institutes of Health (NIH) and Department of Energy
+(DOE) discussion meeting - Human Physiological Responses to Light
+(November 2022) <a
+href="https://www.energy.gov/sites/default/files/2024-08/ssl-physiology_2022rdmtg-080724.pdf"
+class="uri">https://www.energy.gov/sites/default/files/2024-08/ssl-physiology_2022rdmtg-080724.pdf</a></p></li>
+<li><p>﻿Interdisciplinary thinking at the MICRA ‘Ageing and Older Age
+Conference’ <a
+href="https://www.manchester.ac.uk/discover/news/interdisciplinary-thinking-at-the-micra-ageing-and-older-age-conference/"
+class="uri">https://www.manchester.ac.uk/discover/news/interdisciplinary-thinking-at-the-micra-ageing-and-older-age-conference/</a>﻿</p></li>
+</ul>
+<hr>
+<p><br><br><br></p>
+<hr>
+</div>
+<div id="scientific-conferences" class="section level2">
+<h2>Scientific conferences</h2>
+<hr>
+<ul>
+<li><p>NUTRITION 2024, American Society for Nutrition (July 2024,
+Chicago USA)</p></li>
+<li><p>GRC Chronobiology, Clocks Across the Phylogenetic Tree, from
+Single Cell to Humans (May 2023, Maine USA)</p></li>
+<li><p>Society for Light Treatment and Biological Rhythms,
+34<sup>th</sup> Annual Meeting (May 2023, Lausanne SWITZERLAND)</p></li>
+<li><p>British Neuroscience Association, Festival of Neuroscience 2023
+(April 2023, Brighton UK)</p></li>
+<li><p>Sleep Research Society, Advances in Sleep &amp; Circadian Science
+(Feb 2023, Florida USA)</p></li>
+<li><p>Society for Light Treatment and Biological Rhythms,
+33<sup>rd</sup> Annual Meeting (July 2022, Manchester UK)</p></li>
+<li><p>Society for Research on Biological Rhythms, Annual Meeting (May
+2022, Florida USA)</p></li>
+<li><p>Sleep Research Society, SLEEP 2021 (June 2021)</p></li>
+<li><p>British Neuroscience Association, Festival of Neuroscience
+(April</p>
+<ol start="2021" style="list-style-type: decimal">
+<li></li>
+</ol></li>
+<li><p>British Geriatrics Society, Autumn Meeting (November 2020,
+Manchester UK)</p></li>
+<li><p>Society for Research on Biological Rhythms Meeting (May
+2020)</p></li>
+<li><p>2<sup>nd</sup> Neuroepigenetics &amp; Neuroepitranscriptomics
+Conference, (March 2020, BAHAMAS)</p></li>
+<li><p>British Society of Cell Biology, Dynamic Cell III (March 2018,
+Manchester UK)</p></li>
+</ul>
+<hr>
+<p><br><br><br></p>
+<hr>
+</div>
+</div>
+<div id="in-the-media" class="section level1">
+<h1>In the media</h1>
+<hr>
+<style>
+.media-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  background: #fafafa;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.08);
+  transition: 0.2s;
+  display: flex; 
+  align-items: center;
+  width: 100%; 
+  max-width: none; 
+}
+.media-card:hover {
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.15);
+  transform: translateY(-3px);
+}
+.media-card a {
+  text-decoration: none;
+  color: #333;
+  display: flex;
+  width: 100%;
+}
+.media-card img {
+  width: 100px; 
+  height: 100px; 
+  object-fit: cover; 
+  border-radius: 4px;
+  margin-right: 1rem; 
+  flex-shrink: 0;
+}
+.media-card .text-content {
+  display: flex;
+  flex-direction: column;
+}
+.media-card .text-content .title {
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+  font-size: 1.7rem;
+}
+.media-card .text-content .source {
+  color: #666;
+  font-size: 1.5rem;
+}
+</style>
+<div class="media-card">
+<a href="https://www.foxnews.com/food-drink/breakfast-timing-may-hold-key-living-longer-new-research-reveals" target="_blank">
+<img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1862/1046/senior-couple-eating-health-breakfast-longevity.jpg?ve=1&tl=1" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+Breakfast timing may hold the key to living longer, new research reveals
+</div>
+<div class="source">
+Fox News, 2025
+</div>
+</div>
+<p></a></p>
+</div>
+<div class="media-card">
+<a href="https://people.com/eating-breakfast-later-could-be-an-early-warning-sign-11804603" target="_blank">
+<img src="https://people.com/thmb/_PrSCQQHh6x_UIjuoKlazHoCa7c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(826x278:828x280):format(webp)/breakfast-plate-090525-b7184777ae594e30add800322e83cb46.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+Eating Breakfast Later and Later? That Could Be an ‘Early Warning Sign’
+That Something’s Wrong
+</div>
+<div class="source">
+People, 2025
+</div>
+</div>
+<p></a></p>
+</div>
+<div class="media-card">
+<a href="https://www.eurekalert.org/news-releases/1096755" target="_blank">
+<img src="https://people.com/thmb/_PrSCQQHh6x_UIjuoKlazHoCa7c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(826x278:828x280):format(webp)/breakfast-plate-090525-b7184777ae594e30add800322e83cb46.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+Meal timing in later life may matter for health and longevity
+</div>
+<div class="source">
+Eurekalert, 2025
+</div>
+</div>
+<p></a></p>
+</div>
+<div class="media-card">
+<a href="https://www.nationalgeographic.com.es/ciencia/buenas-noticias-para-quienes-madrugan-desayuno-temprano-disminuye-mortalidad-adultos-mayores-segun-estudio-durante-30-anos_26191" target="_blank">
+<img src="https://content.nationalgeographic.com.es/medio/2025/09/16/desayuno_f5b50414_250916171614_1280x854.webp" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+Eating breakfast early reduces mortality in older adults, according to a
+30-year study
+</div>
+<div class="source">
+National Geographic, 2025
+</div>
+</div>
+<p></a></p>
+</div>
+<div class="media-card">
+<a href="https://www.womenshealthmag.com/health/a66122655/breakfast-time-mortality-risk/" target="_blank">
+<img src="https://hips.hearstapps.com/hmg-prod/images/red-toaster-toasting-two-bread-slices-on-yellow-royalty-free-image-1758558015.pjpeg?resize=1400:*" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+This Is The Best Time Of Day To Eat Breakfast, According To New Research
+</div>
+<div class="source">
+Women’s Health, 2025
+</div>
+</div>
+<p></a></p>
+</div>
+<div class="media-card">
+<a href="https://www.har.mrc.ac.uk/news/shining-a-light-on-an-overlooked-animal-welfare-issue/" target="_blank">
+<img src="https://www.har.mrc.ac.uk/wp-content/uploads/MRC-Harwell-011-1536x1024.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+Shining a light on an overlooked animal welfare issue
+</div>
+<div class="source">
+UKRI Mary Lyon Centre, 2024
+</div>
+</div>
+<p></a></p>
+</div>
+<div class="media-card">
+<a href="https://www.psychologytoday.com/us/blog/fulfillment-any-age/201908/the-health-news-is-good-if-you-re-morning-person" target="_blank">
+<img src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2019-09/shutterstock_555427024.jpg?itok=S5qIaVR8" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+The Health News Is Good if You’re a Morning Person
+</div>
+<div class="source">
+Psychology Today, 2019
+</div>
+</div>
+<p></a></p>
+</div>
+<div class="media-card">
+<a href="https://research-hive.com/2019/08/20/the-enduring-impact-of-sleep-for-healthy-ageing/" target="_blank">
+<img src="https://research-hive.com/wp-content/uploads/2019/08/9458285375_643968d1f9_z.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">
+Why a good night’s sleep is important no matter our age
+</div>
+<div class="source">
+Research Hive, 2019
+</div>
+</div>
+<p></a></p>
+</div>
+<hr>
+<p><br><br><br></p>
+<hr>
+</div>
+<div id="recent-activities" class="section level1">
+<h1>Recent activities</h1>
+<hr>
+<ul>
+<li><p>Division reporter (2025-2026), CIE - International Commission on
+Illumination, Division Reporter DR6-50 ‘Optimal Spectral Weighting
+Functions for Biological and Ecological Effects of Environmental Light
+Pollution’ <a href="https://www.cie.co.at/reporter/dr-6-50"
+class="uri">https://www.cie.co.at/reporter/dr-6-50</a></p></li>
+<li><p>ERASMUS+ programme researcher visit grant (2025 May), 1 week
+visit to the Translational Sensory &amp; Circadian Neuroscience Unit led
+by Prof. Manuel Spitschan at the Max Plack Institute for Biological
+Cybernetics in Tübingen and Technical University of Munich (TUM) <a
+href="https://www.tscnlab.org/news/didikoglu-visit"
+class="uri">https://www.tscnlab.org/news/didikoglu-visit</a></p></li>
+<li><p>Technical committee membership (2023-2026), CIE - International
+Commission on Illumination, Technical Committee JTC20 ‘Wearable
+alpha-opic dosimetry and light logging methods, limitations, device
+calibration and data schemes’ <a
+href="https://cie.co.at/technicalcommittees/wearable-alpha-opic-dosimetry-and-light-loggingmethods-limitations-device"
+class="uri">https://cie.co.at/technicalcommittees/wearable-alpha-opic-dosimetry-and-light-loggingmethods-limitations-device</a></p></li>
+<li><p>International workshop on Light Metrics for Biology: Light
+Pollution (March 2025), Manchester, UK <a
+href="https://cie.co.at/news/4th-manchester-workshop-light-metrics-biology-light-pollution"
+class="uri">https://cie.co.at/news/4th-manchester-workshop-light-metrics-biology-light-pollution</a></p></li>
+<li><p>International workshop on Measurement and Standardisation of
+Lighting for Laboratory Mammals (February 2023), Manchester, UK</p></li>
+<li><p>Thomas Ashton Institute for Risk and Regulatory Research
+workshop, a discussion meeting with sector leaders about light and
+circadian rhythm; exploring opportunities for interventions to improve
+health, wellbeing and productivity in occupational setting (March 2023),
+Manchester, UK</p></li>
+<li><p>Closing the Sleep Gap in Mental Health, a one-day event for
+clinicians to improve knowledge of treating sleep problems in people
+with mental health difficulties (January 2023), Manchester, UK <a
+href="https://www.gmmh.nhs.uk/news/closing-the-sleep-gap-in-mental-health-a-oneday-event-for-clinicians-to-improve-knowledge-of-treating-sleep-problems-in-people-with-mental-health-difficulties-5955/"
+class="uri">https://www.gmmh.nhs.uk/news/closing-the-sleep-gap-in-mental-health-a-oneday-event-for-clinicians-to-improve-knowledge-of-treating-sleep-problems-in-people-with-mental-health-difficulties-5955/</a></p></li>
+</ul>
+<hr>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

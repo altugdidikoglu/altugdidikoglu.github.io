@@ -29,16 +29,21 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1038/s43856-025-01035-x"}
 :::
 
+<hr>
+
 -   Woelders T., **Didikoglu A.**, et al. 2025. Pupillometric and perceptual approaches provide independent estimates of melanopsin activity in humans. *Sleep* <https://doi.org/10.1093/sleep/zsae289>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1093/sleep/zsae289"}
 :::
+
+<hr>
 
 -   Duijnhoven J.V., ..., **Didikoglu A.**, et al. 2025. Measuring light exposure in daily life: A review of wearable light loggers. *Building and Environment* <https://doi.org/10.1016/j.buildenv.2025.112771>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.buildenv.2025.112771"}
 :::
 
+<hr>
 
 -   Jervis S., ..., **Didikoglu A.**, et al. 2025. Narcolepsy genetic variants associated with sleep efficiency in a community dwelling older cohort. *Sleep Science and Practice* <https://doi.org/10.1186/s41606-025-00135-w>
 
@@ -56,20 +61,28 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1186/s12915-024-02038-1"}
 :::
 
+<hr>
+
 -   Guidolin C., ..., **Didikoglu A.**, et al. 2024. Protocol for a prospective, multicentre, cross-sectional cohort study to assess personal light exposure. *BMC Public Health* <https://doi.org/10.1186/s12889-024-20206-4>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1186/s12889-024-20206-4"}
 :::
+
+<hr>
 
 -   Alkan C., **Didikoglu A.**, et al. 2024. Assessment of the validity and reliability of edinburgh postpartum depression scale in Turkish men. *Journal of Perinatal Medicine* <https://doi.org/10.1515/jpm-2024-0026>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1515/jpm-2024-0026"}
 :::
 
+<hr>
+
 -   Celik M., **Didikoglu A.**, et al. 2024. Optimizing lighting design in educational settings for enhanced cognitive performance: A literature review. *Energy and Buildings* <https://doi.org/10.1016/j.enbuild.2024.115180>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.enbuild.2024.115180"}
 :::
+
+<hr>
 
 -   **Didikoglu A.**, et al. 2024. Depression in older adults and its
     associations with sleep and synaptic density. *Journal of Affective Disorders* <https://doi.org/10.1016/j.jad.2024.08.186>
@@ -77,12 +90,16 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.jad.2024.08.186"}
 :::
 
+<hr>
+
 -   Lucas R.J., ..., **Didikoglu A.**, et al. 2024. Recommendations for measuring and
     standardizing light for laboratory mammals to improve welfare and
     reproducibility in animal research. *PLOS Biology* <https://doi.org/10.1371/journal.pbio.3002535>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1371/journal.pbio.3002535"}
 :::
+
+<hr>
 
 -   Mohammmadian N., **Didikoglu A.**, et al. 2024. A wrist worn
     Internet-of-Things sensor node for wearable equivalent daylight
@@ -107,12 +124,16 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.3390/clockssleep5040048"}
 :::
 
+<hr>
+
 -   **Didikoglu A.**, et al. 2023. Associations between light exposure
     and sleep timing and sleepiness while awake in a sample of UK adults
     in everyday life. *PNAS* <https://doi.org/10.1073/pnas.2301608120>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1073/pnas.2301608120"}
 :::
+
+<hr>
 
 -   Maharani A., **Didikoglu A.**, et al. 2023. Education mediating the
     associations between early life factors and frailty: a
@@ -121,6 +142,8 @@ profile. <br>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1136/bmjopen-2021-057511"}
 :::
+
+<hr>
 
 -   Jervis S., et al. 2023. Narcolepsy Associated Genetic Variants
     Associated with Impaired Cognition in A Community Dwelling Older
@@ -144,6 +167,8 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.3390/clockssleep4040045"}
 :::
 
+<hr>
+
 -   **Didikoglu A.**, et al. 2022. Associations between chronotype and
     employment status in a longitudinal study of an elderly population.
    *Chronobiology International*
@@ -165,6 +190,8 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1017/S2040174421000453"}
 :::
 
+<hr>
+
 -   **Didikoglu A.**, et al. 2021. Early life factors and COVID-19
     infection in England: A prospective analysis of UK Biobank
     participants. *Early Human Development*
@@ -185,6 +212,8 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.3233/JAD-200634"}
 :::
 
+<hr>
+
 -   **Didikoglu A.**, et al. 2020. Interactions between season of birth,
     chronological age and genetic polymorphisms in determining
     later-life chronotype. *Mechanisms of Ageing and Development*
@@ -192,6 +221,8 @@ profile. <br>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.mad.2020.111253"}
 :::
+
+<hr>
 
 -   **Didikoglu A.**, et al. 2020. Seasonality and season of birth
     effect in the UK Biobank cohort. *American Journal of Human Biology*
@@ -213,6 +244,8 @@ profile. <br>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1080/07420528.2019.1641111"}
 :::
+
+<hr>
 
 -   **Didikoglu A.**, et al. 2019. Longitudinal sleep efficiency in the
     elderly and its association with health. *Journal of Sleep Research*
@@ -238,6 +271,8 @@ profile. <br>
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.cdnut.2024.102783"}
 :::
 
+<hr>
+
 -   Lucas R.J., **Didikoglu A.**, et al. 2023. Spectrawear, an
     Open-Source, Reasonably Priced, Wearable Dosimeter Suitable for
     Longitudinal Monitoring of Light Exposure in Alpha-Opic Units in
@@ -247,6 +282,8 @@ profile. <br>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.3390/clockssleep5030031"}
 :::
+
+<hr>
 
 -   **Didikoglu A.**, et al. 2021. Longitudinal Change of Sleep in the
     Elderly and Its Associations with Health. British Geriatrics

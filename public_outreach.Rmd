@@ -1,0 +1,293 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 1
+---
+
+<hr>
+
+# Presentations
+
+<hr>
+
+### 2025 October - Current Topics in Sleep & Circadian Health
+
+**Monitoring real-world light exposure and its impact on sleep health**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZO7NTiKYJcA" frameborder="0" allowfullscreen>
+
+</iframe>
+
+<hr>
+
+### 2025 September - Research Roundtabel & Symposium: Diversity in the circadian, neuroendocrine and neurobehavioral effects of light in humans
+
+**Considering socioeconomics, language, & social norms in real-world
+light exposure**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3INjZD2Fz_Q" frameborder="0" allowfullscreen>
+
+</iframe>
+
+<hr>
+
+<br><br><br>
+
+<hr>
+
+## Talks
+
+<hr>
+
+-   10^th^ Ecology and Evolutionary Biology Symposium (July 2024,
+    Canakkale TÜRKİYE)
+
+-   9^th^ International Bioengineering Student Congress, Ege University
+    (May 2024, Izmir TÜRKİYE)
+
+-   US National Institutes of Health (NIH) and Department of Energy
+    (DOE) discussion meeting - Human Physiological Responses to Light
+    (November 2022)
+    <https://www.energy.gov/sites/default/files/2024-08/ssl-physiology_2022rdmtg-080724.pdf>
+
+-   ﻿Interdisciplinary thinking at the MICRA ‘Ageing and Older Age
+    Conference’
+    <https://www.manchester.ac.uk/discover/news/interdisciplinary-thinking-at-the-micra-ageing-and-older-age-conference/>﻿
+
+<hr>
+
+<br><br><br>
+
+<hr>
+
+## Scientific conferences
+
+<hr>
+
+-   NUTRITION 2024, American Society for Nutrition (July 2024, Chicago
+    USA)
+
+-   GRC Chronobiology, Clocks Across the Phylogenetic Tree, from Single
+    Cell to Humans (May 2023, Maine USA)
+
+-   Society for Light Treatment and Biological Rhythms, 34^th^ Annual
+    Meeting (May 2023, Lausanne SWITZERLAND)
+
+-   British Neuroscience Association, Festival of Neuroscience 2023
+    (April 2023, Brighton UK)
+
+-   Sleep Research Society, Advances in Sleep & Circadian Science (Feb
+    2023, Florida USA)
+
+-   Society for Light Treatment and Biological Rhythms, 33^rd^ Annual
+    Meeting (July 2022, Manchester UK)
+
+-   Society for Research on Biological Rhythms, Annual Meeting (May
+    2022, Florida USA)
+
+-   Sleep Research Society, SLEEP 2021 (June 2021)
+
+-   British Neuroscience Association, Festival of Neuroscience (April
+
+    2021) 
+
+-   British Geriatrics Society, Autumn Meeting (November 2020,
+    Manchester UK)
+
+-   Society for Research on Biological Rhythms Meeting (May 2020)
+
+-   2^nd^ Neuroepigenetics & Neuroepitranscriptomics Conference, (March
+    2020, BAHAMAS)
+
+-   British Society of Cell Biology, Dynamic Cell III (March 2018,
+    Manchester UK)
+
+<hr>
+
+<br><br><br>
+
+<hr>
+
+# In the media
+
+<hr>
+
+```{asis}
+<style>
+.media-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  background: #fafafa;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.08);
+  transition: 0.2s;
+  display: flex; 
+  align-items: center;
+  width: 100%; 
+  max-width: none; 
+}
+.media-card:hover {
+  box-shadow: 4px 4px 10px rgba(0,0,0,0.15);
+  transform: translateY(-3px);
+}
+.media-card a {
+  text-decoration: none;
+  color: #333;
+  display: flex;
+  width: 100%;
+}
+.media-card img {
+  width: 100px; 
+  height: 100px; 
+  object-fit: cover; 
+  border-radius: 4px;
+  margin-right: 1rem; 
+  flex-shrink: 0;
+}
+.media-card .text-content {
+  display: flex;
+  flex-direction: column;
+}
+.media-card .text-content .title {
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+  font-size: 1.7rem;
+}
+.media-card .text-content .source {
+  color: #666;
+  font-size: 1.5rem;
+}
+</style>
+```
+
+::: media-card
+<a href="https://www.foxnews.com/food-drink/breakfast-timing-may-hold-key-living-longer-new-research-reveals" target="_blank">
+<img src="https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1862/1046/senior-couple-eating-health-breakfast-longevity.jpg?ve=1&tl=1" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">Breakfast timing may hold the key to living longer, new research reveals</div>
+<div class="source">Fox News, 2025</div>
+</div>
+</a>
+:::
+
+::: media-card
+<a href="https://people.com/eating-breakfast-later-could-be-an-early-warning-sign-11804603" target="_blank">
+<img src="https://people.com/thmb/_PrSCQQHh6x_UIjuoKlazHoCa7c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(826x278:828x280):format(webp)/breakfast-plate-090525-b7184777ae594e30add800322e83cb46.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">Eating Breakfast Later and Later? That Could Be an 'Early Warning Sign' That Something's Wrong</div>
+<div class="source">People, 2025</div>
+</div>
+</a>
+:::
+
+::: media-card
+<a href="https://www.eurekalert.org/news-releases/1096755" target="_blank">
+<img src="https://people.com/thmb/_PrSCQQHh6x_UIjuoKlazHoCa7c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(826x278:828x280):format(webp)/breakfast-plate-090525-b7184777ae594e30add800322e83cb46.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">Meal timing in later life may matter for health and longevity</div>
+<div class="source">Eurekalert, 2025</div>
+</div>
+</a>
+:::
+
+::: media-card
+<a href="https://www.nationalgeographic.com.es/ciencia/buenas-noticias-para-quienes-madrugan-desayuno-temprano-disminuye-mortalidad-adultos-mayores-segun-estudio-durante-30-anos_26191" target="_blank">
+<img src="https://content.nationalgeographic.com.es/medio/2025/09/16/desayuno_f5b50414_250916171614_1280x854.webp" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">Eating breakfast early reduces mortality in older adults, according to a 30-year study</div>
+<div class="source">National Geographic, 2025</div>
+</div>
+</a>
+:::
+
+::: media-card
+<a href="https://www.womenshealthmag.com/health/a66122655/breakfast-time-mortality-risk/" target="_blank">
+<img src="https://hips.hearstapps.com/hmg-prod/images/red-toaster-toasting-two-bread-slices-on-yellow-royalty-free-image-1758558015.pjpeg?resize=1400:*" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">This Is The Best Time Of Day To Eat Breakfast, According To New Research</div>
+<div class="source">Women's Health, 2025</div>
+</div>
+</a>
+:::
+
+::: media-card
+<a href="https://www.har.mrc.ac.uk/news/shining-a-light-on-an-overlooked-animal-welfare-issue/" target="_blank">
+<img src="https://www.har.mrc.ac.uk/wp-content/uploads/MRC-Harwell-011-1536x1024.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">Shining a light on an overlooked animal welfare issue</div>
+<div class="source">UKRI Mary Lyon Centre, 2024</div>
+</div>
+</a>
+:::
+
+::: media-card
+<a href="https://www.psychologytoday.com/us/blog/fulfillment-any-age/201908/the-health-news-is-good-if-you-re-morning-person" target="_blank">
+<img src="https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2019-09/shutterstock_555427024.jpg?itok=S5qIaVR8" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">The Health News Is Good if You’re a Morning Person</div>
+<div class="source">Psychology Today, 2019</div>
+</div>
+</a>
+:::
+
+::: media-card
+<a href="https://research-hive.com/2019/08/20/the-enduring-impact-of-sleep-for-healthy-ageing/" target="_blank">
+<img src="https://research-hive.com/wp-content/uploads/2019/08/9458285375_643968d1f9_z.jpg" alt="Thumbnail"/>
+<div class="text-content">
+<div class="title">Why a good night’s sleep is important no matter our age</div>
+<div class="source">Research Hive, 2019</div>
+</div>
+</a>
+:::
+
+<hr>
+
+<br><br><br>
+
+<hr>
+
+# Recent activities
+
+<hr>
+
+-   Division reporter (2025-2026), CIE - International Commission on
+    Illumination, Division Reporter DR6-50 ‘Optimal Spectral Weighting
+    Functions for Biological and Ecological Effects of Environmental
+    Light Pollution’ <https://www.cie.co.at/reporter/dr-6-50>
+
+-   ERASMUS+ programme researcher visit grant (2025 May), 1 week visit
+    to the Translational Sensory & Circadian Neuroscience Unit led by
+    Prof. Manuel Spitschan at the Max Plack Institute for Biological
+    Cybernetics in Tübingen and Technical University of Munich (TUM)
+    <https://www.tscnlab.org/news/didikoglu-visit>
+
+-   Technical committee membership (2023-2026), CIE - International
+    Commission on Illumination, Technical Committee JTC20 ‘Wearable
+    alpha-opic dosimetry and light logging methods, limitations, device
+    calibration and data schemes’
+    <https://cie.co.at/technicalcommittees/wearable-alpha-opic-dosimetry-and-light-loggingmethods-limitations-device>
+
+-   International workshop on Light Metrics for Biology: Light Pollution
+    (March 2025), Manchester, UK
+    <https://cie.co.at/news/4th-manchester-workshop-light-metrics-biology-light-pollution>
+
+-   International workshop on Measurement and Standardisation of
+    Lighting for Laboratory Mammals (February 2023), Manchester, UK
+
+-   Thomas Ashton Institute for Risk and Regulatory Research workshop, a
+    discussion meeting with sector leaders about light and circadian
+    rhythm; exploring opportunities for interventions to improve health,
+    wellbeing and productivity in occupational setting (March 2023),
+    Manchester, UK
+
+-   Closing the Sleep Gap in Mental Health, a one-day event for
+    clinicians to improve knowledge of treating sleep problems in people
+    with mental health difficulties (January 2023), Manchester, UK
+    <https://www.gmmh.nhs.uk/news/closing-the-sleep-gap-in-mental-health-a-oneday-event-for-clinicians-to-improve-knowledge-of-treating-sleep-problems-in-people-with-mental-health-difficulties-5955/>
+
+<hr>
