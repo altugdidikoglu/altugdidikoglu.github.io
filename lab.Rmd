@@ -25,8 +25,6 @@ output:
 
 -   **Meric Celik**<br>
 
--   **Berkay Ekinci**<br>
-
 -   **Sena Gulsum Akgun**<br>
 
 <hr>
@@ -36,9 +34,15 @@ output:
 
 <hr>
 
+-   **Burcu Gemici**<br>
+
 -   **Zeynep Kayar**<br>
 
--   **Burcu Gemici**<br>
+-   **Nilufer Bilgin**<br>
+
+-   **Berna Alkan**<br>
+
+-   **Ece Vahide Zeybek**<br>
 
 <hr>
 
@@ -46,8 +50,12 @@ output:
 
 <hr>
 
+-   **Berkay Ekinci**<br> previously: Undergraduate Research
+    Student<br> next: Izmir Institute of Technology<br> [personal
+    page](https://www.linkedin.com/in/berkayekinci/)
+
 -   **Esin Simge Guler**<br> previously: Undergraduate Research
-    Student<br> now: Heidelberg University<br> [personal
+    Student<br> next: Heidelberg University<br> [personal
     page](https://www.linkedin.com/in/esin-simge-g%C3%BCler-15593824b/)
 
 -   **Halil Kaan Turk**<br> previously: Undergraduate Research
@@ -55,19 +63,19 @@ output:
     page](https://www.linkedin.com/in/halil-kaan-t%C3%BCrk-33396a1b7/)
 
 -   **Onur Bayram**<br> previously: Undergraduate Research Student<br>
-    now: University of Vienna<br> [personal
+    next: University of Vienna<br> [personal
     page](https://www.linkedin.com/in/obito/)
 
 -   **Aleyna Nur Erim**<br> previously: Undergraduate Research
-    Student<br> now: University of Helsinki<br> [personal
+    Student<br> next: University of Helsinki<br> [personal
     page](https://www.linkedin.com/in/aleynanurerim/)
 
 -   **Furkan Mert Kervan**<br> previously: Undergraduate Research
-    Student<br> now: Izmir Institute of Technology<br> [personal
+    Student<br> next: Izmir Institute of Technology<br> [personal
     page](https://www.linkedin.com/in/furkan-mert-kervan-b0020b199/)
 
 -   **Eray Yildiz**<br> previously: Undergraduate Research
-    Student<br> now: The University of Bonn <br> [personal
+    Student<br> next: The University of Bonn <br> [personal
     page](https://www.linkedin.com/in/eray-y%C4%B1ld%C4%B1z-b0857a204/?originalSubdomain=tr)
 
 <hr>

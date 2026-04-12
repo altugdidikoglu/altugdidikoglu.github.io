@@ -54,6 +54,7 @@ This project aims to enhance cognitive performance and promote healthier sleep p
 This project focuses on translating, validating, and culturally adapting sleep and circadian assessment tools. By accounting for cultural differences in behavior, environment, and interpretation, we aim to strengthen meta-science practices and improve the reproducibility and global applicability of circadian and sleep research.
 
 -   **Enhancing Health and Aging through Better Rhythm**
+
 The project aims to investigate the associations between aging trajectories of sleep patterns, circadian rhythms, lighting and feeding behaviour, health, cognition, and mood. By understanding these relationships, the project seeks to develop targeted interventions that promote healthier aging.
 
 <hr>

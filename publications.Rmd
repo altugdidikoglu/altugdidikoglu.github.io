@@ -24,6 +24,13 @@ profile. <br>
 
 <hr>
 
+-   **Didikoglu A.**, et al. 2025. Relationships between light exposure and aspects of cognitive function in everyday life. *Communications Psychology* <https://doi.org/10.1038/s44271-025-00373-9>
+
+::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1038/s44271-025-00373-9"}
+:::
+
+<hr>
+
 -   Dashti H.S., ..., **Didikoglu A.**. 2025. Meal timing trajectories in older adults and their associations with morbidity, genetic profiles, and mortality. *Communications Medicine* <https://doi.org/10.1038/s43856-025-01035-x>
 
 ::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1038/s43856-025-01035-x"}
@@ -264,32 +271,12 @@ profile. <br>
 
 <hr>
 
--   Lui C., **Didikoglu A.**, et al. 2024. Meal Timing Trajectories and
-    All-Cause Mortality in Older Adults. American Society of Nutrition,
-    NUTRITION 2024 (June 2024, Chicago, USA). *Current Developments in Nutrition* <https://doi.org/10.1016/j.cdnut.2024.102783>
-
-::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1016/j.cdnut.2024.102783"}
-:::
+-   Celik M., **Didikoglu A.**, et al. 2026. Evaluating the Melanopsin Stimulus Potential of Classrooms Under Short-Wavelength-Enriched LED Light. *Proceedings of CESBP 2025 - 6th Central European Symposium on Building Physics*
+<https://doi.org/10.1007/978-3-032-14019-7_79>
 
 <hr>
 
--   Lucas R.J., **Didikoglu A.**, et al. 2023. Spectrawear, an
-    Open-Source, Reasonably Priced, Wearable Dosimeter Suitable for
-    Longitudinal Monitoring of Light Exposure in Alpha-Opic Units in
-    Everyday Life. Society for Light Treatment and Biological Rhythms,
-    34th Annual Meeting (May 2023, SWITZERLAND). *Clocks & Sleep*
-    <https://doi.org/10.3390/clockssleep5030031>
-
-::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.3390/clockssleep5030031"}
-:::
-
-<hr>
-
--   **Didikoglu A.**, et al. 2021. Longitudinal Change of Sleep in the
-    Elderly and Its Associations with Health. British Geriatrics
-    Society, Autumn Meeting (November 2020, Manchester, UK). *Age and Ageing* <https://doi.org/10.1093/ageing/afab030.10>
-
-::: {.altmetric-embed data-badge-type="medium-donut" data-badge-details="right" data-doi="10.1093/ageing/afab030.10"}
-:::
+-   Kervan F.M., ..., **Didikoglu A.**. 2024. Ecological Light Pollution: A Pilot Study of Species-Specific Quantification. *BALKANLIGHT’2024 Conference - Future of Lighting: Efficient and Intelligent*
+    <https://polen.itu.edu.tr/items/39d5b23f-016c-45d4-84c3-99988c58822d>
 
 <hr>

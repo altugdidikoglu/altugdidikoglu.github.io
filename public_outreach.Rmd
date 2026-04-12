@@ -55,9 +55,9 @@ light exposure**
     (November 2022)
     <https://www.energy.gov/sites/default/files/2024-08/ssl-physiology_2022rdmtg-080724.pdf>
 
--   ﻿Interdisciplinary thinking at the MICRA ‘Ageing and Older Age
+-   Interdisciplinary thinking at the MICRA ‘Ageing and Older Age
     Conference’
-    <https://www.manchester.ac.uk/discover/news/interdisciplinary-thinking-at-the-micra-ageing-and-older-age-conference/>﻿
+    <https://www.manchester.ac.uk/discover/news/interdisciplinary-thinking-at-the-micra-ageing-and-older-age-conference/>
 
 <hr>
 
@@ -69,14 +69,27 @@ light exposure**
 
 <hr>
 
+-   Society for Light, Rhythms, and Circadian Health, 36^th^ Annual
+    Meeting (June 2025, Boston USA) <https://www.mdpi.com/2624-5175/8/1/2>
+
+-   European Biological Rhythms Society (EBRS), Annual Meeting (August 2025, Lubeck GERMANY)
+
+-   Physiological Society, Breakthroughs in Understanding Natural Behaviour and its Neural Underpinnings (September 2024, Manchester UK)
+
+-   Society for Light Treatment and Biological Rhythms, 35^th^ Annual
+    Meeting (June 2024, Prague CZECHIA) <https://www.mdpi.com/2624-5175/6/4/47>
+    
+-   British Neuroscience Association, Festival of Neuroscience 2023
+    (April 2025, Liverpool UK)
+    
 -   NUTRITION 2024, American Society for Nutrition (July 2024, Chicago
-    USA)
+    USA) <https://doi.org/10.1016/j.cdnut.2024.102783>
 
 -   GRC Chronobiology, Clocks Across the Phylogenetic Tree, from Single
     Cell to Humans (May 2023, Maine USA)
 
 -   Society for Light Treatment and Biological Rhythms, 34^th^ Annual
-    Meeting (May 2023, Lausanne SWITZERLAND)
+    Meeting (May 2023, Lausanne SWITZERLAND) <https://www.mdpi.com/2624-5175/5/3/31>
 
 -   British Neuroscience Association, Festival of Neuroscience 2023
     (April 2023, Brighton UK)
@@ -92,12 +105,10 @@ light exposure**
 
 -   Sleep Research Society, SLEEP 2021 (June 2021)
 
--   British Neuroscience Association, Festival of Neuroscience (April
-
-    2021) 
+-   British Neuroscience Association, Festival of Neuroscience (April 2021) 
 
 -   British Geriatrics Society, Autumn Meeting (November 2020,
-    Manchester UK)
+    Manchester UK) <https://doi.org/10.1093/ageing/afab030.10>
 
 -   Society for Research on Biological Rhythms Meeting (May 2020)
 
